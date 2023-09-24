@@ -1,0 +1,23 @@
+.box {
+  width: 100%;
+}
+
+.left-col {
+  padding: 0 4% 0 0;
+  width: 100%
+}
+
+.right-col {
+  float: right;
+  padding: 0 0 0 4%;
+  width: 35%;
+  text-align: right;
+}
+.indent-1 {
+  margin-left: 5%;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 40px;
+}
