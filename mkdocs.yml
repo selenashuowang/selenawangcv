@@ -5,16 +5,11 @@ extra_css:
   - styles/extra.css
 
 nav:
-  - Home:
-    - Home: home/home.md
-  - Research:
-    - Research: research/research.md
-  - Publications:
-    - Publications: publications/publications.md
-  - Teaching:
-    - Teaching: teaching/teaching.md
-  - Software:
-    - Software: software/software.md            
+  - Home: home.md
+  - Research: research.md
+  - Publications: publications.md
+  - Teaching: teaching.md
+  - Software: software.md            
 
 theme:
   name: material
